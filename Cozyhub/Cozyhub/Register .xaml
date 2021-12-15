@@ -16,14 +16,14 @@
         <Label Content="Email Address" HorizontalAlignment="Left" Height="36" Margin="387,132,0,0" VerticalAlignment="Top" Width="166" FontSize="18"/>
         <Label Content="Mobile No" HorizontalAlignment="Left" Height="36" Margin="116,263,0,0" VerticalAlignment="Top" Width="166" FontSize="18"/>
         <Label Content="Sign Up" HorizontalAlignment="Left" Height="62" Margin="325,41,0,0" VerticalAlignment="Top" Width="254" FontSize="36" FontWeight="Bold" Background="White" Foreground="#FF230282"/>
-        <TextBox HorizontalAlignment="Left" Height="30" Margin="238,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="31" Margin="238,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="30" Margin="238,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="31" Margin="238,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="31" Margin="530,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="30" Margin="530,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="32" Margin="530,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
-        <ListBox HorizontalAlignment="Left" Height="30" Margin="530,266,0,0" VerticalAlignment="Top" Width="121" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="18"/>
+        <TextBox x:Name="Mobile" HorizontalAlignment="Left" Height="30" Margin="238,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
+        <TextBox x:Name="Address" HorizontalAlignment="Left" Height="31" Margin="238,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
+        <TextBox x:Name="Lname" HorizontalAlignment="Left" Height="30" Margin="238,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18" TextChanged="TextBox_TextChanged_2"/>
+        <TextBox HorizontalAlignment="Left" Height="31" Margin="238,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="31" Margin="530,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
+        <TextBox x:Name="Uname" HorizontalAlignment="Left" Height="30" Margin="530,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" Height="32" Margin="530,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="18"/>
+        <ListBox x:Name="Utype" HorizontalAlignment="Left" Height="30" Margin="530,266,0,0" VerticalAlignment="Top" Width="121" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="18"/>
 
     </Grid>
 </Window>
