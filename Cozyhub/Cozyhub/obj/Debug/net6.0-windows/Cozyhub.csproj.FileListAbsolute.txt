@@ -1,0 +1,23 @@
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.csproj.AssemblyReference.cache
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\App.g.cs
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub_MarkupCompile.cache
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub_MarkupCompile.lref
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\Cozyhub.exe
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\Cozyhub.deps.json
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\Cozyhub.runtimeconfig.json
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\Cozyhub.dll
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\ref\Cozyhub.dll
+D:\GUI_PROJECT\Cozyhub\Cozyhub\bin\Debug\net6.0-windows\Cozyhub.pdb
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.g.resources
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.AssemblyInfoInputs.cache
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.AssemblyInfo.cs
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.csproj.CoreCompileInputs.cache
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.dll
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\ref\Cozyhub.dll
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.pdb
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Cozyhub.genruntimeconfig.cache
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Register .g.cs
+D:\GUI_PROJECT\Cozyhub\Cozyhub\obj\Debug\net6.0-windows\Register .baml

@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:Cozyhub"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Label Content="Label" HorizontalAlignment="Left" Height="24" Margin="90,64,0,0" VerticalAlignment="Top" Width="70"/>
-
+    <Grid x:Name="Form_1" Background="#FF3B7EBD">
+        <Button Content="Sign Up" HorizontalAlignment="Center" Height="55" Margin="0,124,0,0" VerticalAlignment="Top" Width="217" Click="Button_Click" FontWeight="Bold" FontSize="36" Foreground="White" Background="#FF040671"/>
+        <Button Content="Log In" HorizontalAlignment="Center" Height="55" Margin="0,241,0,0" VerticalAlignment="Top" Width="217" FontSize="36" FontWeight="Bold" Background="#FF090B6F" Foreground="White"/>
     </Grid>
 </Window>

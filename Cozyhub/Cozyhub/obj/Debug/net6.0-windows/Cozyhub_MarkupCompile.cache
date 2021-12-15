@@ -1,5 +1,5 @@
 ﻿Cozyhub
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\GUI_PROJECT\Cozyhub\Cozyhub\App.xaml
 51032300574
 
-9-760984116
+7-1758664917
 194-164764702
 Booking.xaml;Done.xaml;MainWindow.xaml;Register .xaml;Window1.xaml;
 
-False
+True
 
